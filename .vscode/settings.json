@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "C:/old-llama/llama.cpp",
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\nithe\\develop\\flutter\\bin;${env:PATH}"
+    }
+}
